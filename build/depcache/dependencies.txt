@@ -1,0 +1,10 @@
+||:threadejemplo2.ThreadEjemplo2
+java.io.PrintStream
+java.lang.invoke.MethodHandles$Lookup
+java.lang.System
+java.lang.Thread
+java.lang.invoke.MethodHandles
+java.lang.Object
+java.lang.invoke.StringConcatFactory
+threadejemplo2.ThreadEjemplo2
+java.lang.Runnable
